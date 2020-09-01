@@ -1,7 +1,5 @@
 # DataQuest-Data-Scientist---Projects
-Projects done while completing "Data Scientist in Python" path (June - July 2020): 
-
-https://app.dataquest.io/view_cert/GLWU3Z9NSQUCIJBS5YK1/
+Projects part of "Data Scientist in Python" path (June - July 2020, Certficate of completion: https://app.dataquest.io/view_cert/GLWU3Z9NSQUCIJBS5YK1/)
 
 "Data Scientist in Python" path includes 36 courses in the following 8 steps:
 
